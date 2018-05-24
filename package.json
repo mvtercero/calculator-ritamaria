@@ -1,0 +1,29 @@
+{
+  "name": "calculator-ritamaria",
+  "version": "1.0.0",
+  "description": "calculator-ritamaria",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "jest --watch npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvtercero/calculator-ritamaria.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "testing",
+    "javascript"
+  ],
+  "author": "Rita María Cascante Vedia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvtercero/calculator-ritamaria/issues"
+  },
+  "homepage": "https://github.com/mvtercero/calculator-ritamaria#readme",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
