@@ -1,7 +1,7 @@
 var application = require("./main");
-
+var app;
 describe ("calculator", function () {
-    var app;
+
 
     beforeEach(function() {
         app = application();
